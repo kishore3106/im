@@ -131,5 +131,6 @@ S.html
 ![alt text](4.png)
 ![alt text](5.png)
 
+
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
